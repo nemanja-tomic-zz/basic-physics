@@ -1,0 +1,18 @@
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\AITest.exe.config
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\AITest.exe
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\AITest.pdb
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.csprojResolveAssemblyReference.cache
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.Form1.resources
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.Properties.Resources.resources
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.csproj.GenerateResource.Cache
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.exe
+c:\users\nemanja\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.pdb
+D:\Projects\AITest\AITest\bin\Debug\AITest.exe.config
+D:\Projects\AITest\AITest\obj\Debug\AITest.exe
+D:\Projects\AITest\AITest\obj\Debug\AITest.pdb
+D:\Projects\AITest\AITest\bin\Debug\AITest.exe
+D:\Projects\AITest\AITest\bin\Debug\AITest.pdb
+D:\Projects\AITest\AITest\obj\Debug\AITest.csprojResolveAssemblyReference.cache
+D:\Projects\AITest\AITest\obj\Debug\AITest.Form1.resources
+D:\Projects\AITest\AITest\obj\Debug\AITest.Properties.Resources.resources
+D:\Projects\AITest\AITest\obj\Debug\AITest.csproj.GenerateResource.Cache
